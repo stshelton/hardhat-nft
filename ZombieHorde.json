@@ -1,0 +1,11 @@
+{
+    "name": "Zombie Horde",
+    "description": "Zombie horde original charater by KT",
+    "image": "https://ipfs.io/ipfs/QmeGQEEdperA3gats9nBJQZFFCMa9cxu8aspXHAKG6T8E4?filename=zombiered.PNG",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 100
+        }
+    ]
+}
