@@ -46,7 +46,7 @@ module.exports = {
         goerli: {
             url: GEORLI_RPC_URL,
             chainId: 5,
-            accounts: [PRIVATE_KEY],
+            accounts: [AVAX_PRIVATE_KEY],
             blockConfirmations: 6,
         },
     },
